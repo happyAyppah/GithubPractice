@@ -16,5 +16,11 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:text="Hello World!" />
+    
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="Hello World!" />
 
 </RelativeLayout>
